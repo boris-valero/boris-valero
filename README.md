@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boris Valero</h1>
-<h3 align="center">A passionate frontend developer from Paris</h3>
+<h3 align="center">A developer from Paris</h3>
 
 - 🔭 I’m currently working on **A Mobile App to stream webradios**
 
