@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Boris Valero</h1>
 <h3 align="center">A developer from Paris</h3>
 
-- 🔭 I’m currently working on **A Mobile App to stream webradios**
+- 🔭 I’m currently working on **an app that offers a webradio tailored to the weather of the city you are in**
 
-- 🌱 I’m currently learning **Cloud computing (Google Cloud Platform)**
+- 🌱 I’m currently learning **Cloud computing**
 
-- 👨‍💻 All of my projects are available at [https://boris-valero.github.io/](https://boris-valero.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/boris-valero](https://github.com/boris-valero)
 
 - ⚡ Fun fact **I Love Jazz**
 
