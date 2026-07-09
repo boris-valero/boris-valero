@@ -101,7 +101,7 @@ I'm particularly interested in:
 ## 💼 Projects
 
 ### 🔷 FramaSpace Hexagonal
-> ⏱️ *mai 2025 – mai 2026*
+> ⏱️ *Projet professionnel | Framasoft*
 
 **Description | 🇫🇷**
 
@@ -130,7 +130,7 @@ Application **Nextcloud** qui agrège les **métriques d'usage** des services Fr
 ---
 
 ### ☁️ Nextcloud — Migration AWS S3 Storage + Docker
-> ⏱️ *Projet professionnel | Framasoft*
+> ⏱️ *mars 2026 – mai 2026*
 
 **Description | 🇫🇷**
 
