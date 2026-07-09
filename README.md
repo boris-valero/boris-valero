@@ -9,7 +9,7 @@
 
 ## 🇫🇷 À propos de moi
 
-Développeur **full-stack junior** 🚀 avec **1 an d'expérience** en alternance chez **[Framasoft](https://framasoft.org)**, contributeur d'outils libres et open source depuis 2001.
+Développeur **full-stack junior** 🚀 avec **1 an d'expérience** en alternance chez **[Framasoft](https://framasoft.org)**, contributeur d'outils libres et open source.
 
 > 💡 Framasoft, c'est un réseau d'esprits libres qui défend un numérique éthique, décentralisé et participatif.
 
@@ -159,17 +159,6 @@ Designed and implemented the **migration of Nextcloud storage** to **AWS S3**, w
 | 📦 **Deployment** | Infrastructure-as-Code via **Ansible** |
 
 **Tech stack:** `Docker` `AWS S3` `Nextcloud` `MariaDB` `Redis` `Ansible` `GitHub Actions` `CI/CD`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Boris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=boris-valero&show_icons=true&theme=radical&bg_color=1a1b26&text_color=ffffff&icon_color=00d9ff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boris-valero&layout=compact&theme=radical&bg_color=1a1b26&text_color=ffffff)
-
-</div>
 
 ---
 
