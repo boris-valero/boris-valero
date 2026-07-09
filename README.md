@@ -166,8 +166,8 @@ Designed and implemented the **migration of Nextcloud storage** to **AWS S3**, w
 
 <div align="center">
 
-![Boris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=boris&show_icons=true&theme=radical&bg_color=1a1b26&text_color=ffffff&icon_color=00d9ff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boris&layout=compact&theme=radical&bg_color=1a1b26&text_color=ffffff)
+![Boris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=boris-valero&show_icons=true&theme=radical&bg_color=1a1b26&text_color=ffffff&icon_color=00d9ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boris-valero&layout=compact&theme=radical&bg_color=1a1b26&text_color=ffffff)
 
 </div>
 
@@ -206,9 +206,9 @@ Designed and implemented the **migration of Nextcloud storage** to **AWS S3**, w
 
 <div align="center">
 
-<a href="https://linkedin.com/in/boris"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/boris"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:boris@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/boris-valero-0153982b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/boris-valero"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:bvalero@framasoft.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
