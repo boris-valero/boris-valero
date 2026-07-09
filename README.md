@@ -14,9 +14,9 @@ Développeur **full-stack junior** 🚀 avec **1 an d'expérience** en alternanc
 > 💡 Framasoft, c'est un réseau d'esprits libres qui défend un numérique éthique, décentralisé et participatif.
 
 Je m'intéresse particulièrement à :
-- 🏗️ **Architecture logicielle** — Clean Architecture, patterns hexagonaux
-- ☁️ **Cloud & DevOps** — AWS, Docker, Ansible
-- 🔧 **Évolutivité** — Modularité, testabilité, maintenabilité
+- 🏗️ **Architecture logicielle** : Clean Architecture, patterns hexagonaux
+- ☁️ **Cloud & DevOps** : AWS, Docker, Ansible
+- 🔧 **Évolutivité** : Modularité, testabilité, maintenabilité
 
 🎯 **Objectif** : rejoindre une équipe tech pour continuer à progresser et contribuer à des projets **solides et impactants**.
 
@@ -29,9 +29,9 @@ Junior **full-stack developer** 🚀 with **1 year of experience** at **[Framaso
 > 💡 Framasoft is a non-profit network dedicated to promoting and developing free, open-source, and decentralized digital tools.
 
 I'm particularly interested in:
-- 🏗️ **Software Architecture** — Clean Architecture, hexagonal patterns
-- ☁️ **Cloud & DevOps** — AWS, Docker, Ansible
-- 🔧 **Scalability** — Modularity, testability, maintainability
+- 🏗️ **Software Architecture** : Clean Architecture, hexagonal patterns
+- ☁️ **Cloud & DevOps** : AWS, Docker, Ansible
+- 🔧 **Scalability** : Modularity, testability, maintainability
 
 🎯 **Goal**: join a tech team where I can grow and build **reliable, impactful software**.
 
